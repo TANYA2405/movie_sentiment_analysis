@@ -1,0 +1,12 @@
+# Create .gitignore
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.log
+*.sqlite3
+.DS_Store
+.vscode/
+.idea/
+.env
